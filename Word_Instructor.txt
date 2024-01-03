@@ -1,0 +1,23 @@
+WELCOME TO THE GAME - WORDS IN A WORD !!!
+
+
+    The instructions and rules to play this game are as follows:
+
+    1. The player will be given a word.
+
+    2. From the letters of the given word,the player is asked to form three valid words of minimum three letters.
+
+    3. The player will be awarded 5 points for each correctly formed word.
+
+    4. The player will lose 2 points for every wrongly formed words.
+
+    5. The player will be awarded 10 extra points if he/she forms all 3 words correctly.
+
+    6. He/She is advised not to use invalid characters like symbols,digits and letters that are not present in the given word.
+
+    NOTE : The letters of the word must not be repeated more than its occurrence in the word.
+    Eg : 'ALONE' --- The words formed shouldn't be 'LOON'.
+
+    
+Hope you will enjoy the game.
+GOOD LUCK!!!

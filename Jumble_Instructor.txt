@@ -1,0 +1,18 @@
+WELCOME TO THE GAME : JUMBLED WORDS !!!
+
+
+    The instructions and rules to play this game are as follows:
+
+    1. The player can choose the interested topics among the given.
+
+    2. Based on the topic,words will be chosen at random and will be jumbled. The player is asked to guess the word at one go.
+
+    3. The player can play a topic until when he/she wish to continue and will be awarded 5 points for each correct word and will lose 2 points if the guess was wrong.
+
+    4. The player is advised not to use any special characters or uppercase letters,if done so 1 point will be deducted.
+
+    NOTE: The words with space inbetween is also considered neglecting the space.
+    Eg: 'silver jubliee' is considered as 'silverjubliee'.
+    
+Hope you will enjoy the game.
+GOOD LUCK!!!

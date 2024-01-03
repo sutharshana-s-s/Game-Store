@@ -1,0 +1,20 @@
+WELCOME TO BATTLE SHIP !!!
+
+
+    The instructions and rules to play this game are as follows:
+
+    1. The player is supposed to guess the location of the ship located by the computer and destroy it.
+
+    2. The player will be given an initial score of 10 points.
+
+    3. If the guess of location is correct,then the player will be awarded 10 points.
+
+    4. If the guess of the location is wrong and is within the battleship area,then the player will loose 1 point.
+
+    5. If the guess of the location is wrong and is not within the battleship area,then the player will loose 2 points.
+
+    6. The guesses are supposed to be entered as digits,else it would be considered invalid and the player will lose 1 point.
+
+    
+Hope you will enjoy the game.
+GOOD LUCK!!!

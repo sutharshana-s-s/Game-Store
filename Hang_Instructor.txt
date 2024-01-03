@@ -1,0 +1,26 @@
+WELCOME TO HANGMAN !!!
+
+
+    The instructions and rules to play this game are as follows:
+
+    1. The player can choose the interested topics among the given.
+
+    2. Based on the topic words will be chosen at random and the player is asked to guess the word character by character.
+
+    3. The player will get 5 chances for guessing and will be awarded 5 points for each correct guess and 1 point will be deducted for each wrong guess.
+
+    4. If the character entered is contained in the word,the character is displayed in that place.
+
+    5. As the game progresses, a segment of the gallows and of the player is added for every guessed letter not in the word.
+
+    6. The player is advised not to use symbols,digits or more than one character while guessing.
+
+    7. The contestant is not supposed to repeat the guesses which are already made.
+
+    8. After the participant finds the complete word,he/she is awarded with 10 extra points.
+
+    NOTE: The words with space in between is also considered neglecting the space.
+    Eg: 'silver jubliee' is considered as 'silverjubliee'.
+    
+Hope you will enjoy the game.
+GOOD LUCK!!!

@@ -1,0 +1,26 @@
+WELCOME TO MAD LIBS !!!
+
+
+    The instructions and rules to play this game are as follows:
+
+    1. The player can choose the interested subgame among the given.
+
+    2. The player will get an incomplete story / Collective Noun / Proverb.
+
+    3. He/she is supposed to guess the words based on the clues given inside the brackets for stories.
+
+    4. The player will be given one chance to guess each answer.
+
+    5. For every correct guess the player will be awarded 5 points and will lose 2 points for every wrong guess.
+
+    6. If the player finds all the words correctly in the stories,he/she will be awarded 10 extra points .
+
+    NOTE: The player is asked to enter the words succeeding full stops with first letter in uppercase.
+
+          For the clues given as numbers in stories,the player is asked to enter the number in full form. Eg: '7' to be entered as 'seven'.
+
+          The player is not supposed to enter invalid characters like symbols,digits.
+
+    
+Hope you will enjoy the game.
+GOOD LUCK!!!
